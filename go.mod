@@ -1,6 +1,6 @@
 module github.com/mix-plus/core
 
-go 1.19
+go 1.17
 
 require (
 	github.com/gin-gonic/gin v1.8.1
